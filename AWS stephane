@@ -1,0 +1,5 @@
+Hibernate:===
+When you restart the instance, it resumes from where it left off, including all applications and processes that were running. 
+This feature essentially allows you to "pause" your instance rather than shutting it down completely.
+Development and Testing: Developers can pause their EC2 instances when they are not actively working, then resume later with their environment (including data and configurations) fully intact.
+Batch Processing: For workloads that are resource-intensive and can be interrupted (such as large data processing tasks), hibernating the instance can reduce cost and still allow for easy resumption.
