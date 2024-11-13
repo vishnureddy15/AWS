@@ -15,3 +15,7 @@ While UDP is faster and more efficient in certain use cases, it comes with trade
 Reliability: TCP guarantees that data arrives in order, without loss, and without duplication, making it the best choice for applications where reliability is critical (e.g., file transfers, web browsing, email).
 Flow Control: TCP automatically adjusts the flow of data to avoid overwhelming the receiver or network, which is important for applications that need to manage large volumes of data without causing congestion.
 Data Integrity: With TCP, if a packet is lost or corrupted, it is retransmitted. In contrast, UDP does not provide this error recovery mechanism, and applications must handle errors themselves if needed.
+===================================================================================================
+AWS TRANSFER FAMILY::
+AWS Transfer for FTP allows you to expose specific files or directories stored in your S3 bucket over FTP without exposing the entire S3 bucket to the public.
+By using IAM policies and AWS Transfer Family configuration, you can control which files or directories are made available to the FTP users, offering granular access while keeping the rest of the S3 data secure.
