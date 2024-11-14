@@ -19,3 +19,7 @@ Data Integrity: With TCP, if a packet is lost or corrupted, it is retransmitted.
 AWS TRANSFER FAMILY::
 AWS Transfer for FTP allows you to expose specific files or directories stored in your S3 bucket over FTP without exposing the entire S3 bucket to the public.
 By using IAM policies and AWS Transfer Family configuration, you can control which files or directories are made available to the FTP users, offering granular access while keeping the rest of the S3 data secure.
+=======================================================================================================
+AWS App Runner::
+Fully managed service for deploying containerized web applications and APIs.
+it is same line Elsatic Beanstack but App runner is on containers micro service deployment.
