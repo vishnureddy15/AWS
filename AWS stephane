@@ -27,3 +27,6 @@ it is same line Elsatic Beanstack but App runner is on containers micro service 
 AWS Cognito::
 Cognito is specifically designed for user authentication and authorization in your web and mobile applications.
 Cognito integrates easily with other AWS services like Amazon API Gateway, AWS Lambda, S3, and DynamoDB, allowing you to secure access to resources and services without compromising on flexibility or security.
+==================================================================================================================
+Amazon Athena::
+Amazon Athena enables you to run SQL queries on data stored in Amazon S3 without having to move or transform the data.
