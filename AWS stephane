@@ -36,3 +36,8 @@ out bount traffic from AWS to outside it is cost
 AWS Ingress::
 inboud traffic from out side yto AWS ( it is fress of cost)
 =====================================================================================================
+Recovery point objective::
+how much of data loss in may be 1 hr os more or else high
+
+Recovery time objective::
+how much the time to recover the loss data is down time.
