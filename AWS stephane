@@ -30,3 +30,9 @@ Cognito integrates easily with other AWS services like Amazon API Gateway, AWS L
 ==================================================================================================================
 Amazon Athena::
 Amazon Athena enables you to run SQL queries on data stored in Amazon S3 without having to move or transform the data.
+=======================================================================================================
+AWS Egress::
+out bount traffic from AWS to outside it is cost
+AWS Ingress::
+inboud traffic from out side yto AWS ( it is fress of cost)
+=====================================================================================================
