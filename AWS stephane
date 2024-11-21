@@ -41,3 +41,6 @@ how much of data loss in may be 1 hr os more or else high
 
 Recovery time objective::
 how much the time to recover the loss data is down time.
+=============================================================================================================
+Database Migration Service::
+It's a fully managed service that helps you migrate databases to AWS quickly and securely. With DMS, you can migrate your databases to AWS without downtime. 
