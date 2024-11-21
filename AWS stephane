@@ -48,4 +48,7 @@ It's a fully managed service that helps you migrate databases to AWS quickly and
 AWS Backup::
 it is indeed a service provided by AWS. It is a fully managed backup service that enables you to centralize and automate the backup of data across various AWS services as well as on-premises environments.
 and we have AWS vault lock even root use r also not able to delete back up data.
+AWS Backup enables you to centralize and automate data protection across AWS services. It helps you support your regulatory compliance or business policies for data protection.
 =============================================================================================================
+AWS Schema Conversion Tool (SCT): Converts Oracle schema to MySQL/PostgreSQL schema.
+AWS Database Migration Service (DMS): Migrates data with minimal downtime from Oracle to Aurora.
