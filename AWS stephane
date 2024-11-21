@@ -47,4 +47,5 @@ It's a fully managed service that helps you migrate databases to AWS quickly and
 ===================================================================================================================
 AWS Backup::
 it is indeed a service provided by AWS. It is a fully managed backup service that enables you to centralize and automate the backup of data across various AWS services as well as on-premises environments.
+and we have AWS vault lock even root use r also not able to delete back up data.
 =============================================================================================================
