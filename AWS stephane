@@ -44,3 +44,7 @@ how much the time to recover the loss data is down time.
 =============================================================================================================
 Database Migration Service::
 It's a fully managed service that helps you migrate databases to AWS quickly and securely. With DMS, you can migrate your databases to AWS without downtime. 
+===================================================================================================================
+AWS Backup::
+it is indeed a service provided by AWS. It is a fully managed backup service that enables you to centralize and automate the backup of data across various AWS services as well as on-premises environments.
+=============================================================================================================
