@@ -28,6 +28,9 @@ AWS Cognito::
 Cognito is specifically designed for user authentication and authorization in your web and mobile applications.
 Cognito integrates easily with other AWS services like Amazon API Gateway, AWS Lambda, S3, and DynamoDB, allowing you to secure access to resources and services without compromising on flexibility or security.
 ==================================================================================================================
+Amazon Kinesis:::
+Amazon Kinesis is an ideal service for applications like live sports result delivery, where you need to stream, process, and analyze data in real time.
+===========================================================================================================================
 Amazon Athena::
 Amazon Athena enables you to run SQL queries on data stored in Amazon S3 without having to move or transform the data.
 =======================================================================================================
@@ -57,3 +60,4 @@ AWS Global Accelerator vs Cloud front::::
 CloudFront can be configured to deliver content over HTTPS, it doesn’t natively support UDP for real-time streaming or live event applications.
 Global Accelerator is delivering live sports results via UDP requires a solution that handles real-time data delivery efficiently, ensuring that low-latency is maintained across global regions.
 In case of network or server issues, Global Accelerator automatically reroutes traffic to the next best available endpoint, avoiding potential delays due to downtime or suboptimal routing. This automatic failover 
+vv
