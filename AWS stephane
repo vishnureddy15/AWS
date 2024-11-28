@@ -67,3 +67,9 @@ It is commonly used in hybrid cloud architectures where you want to extend your 
 VPC Peering::::::::::
 Use Case: VPC Peering is used to establish a private, internal connection between two VPCs within the same AWS region (or across regions if using Inter-Region VPC Peering). 
 This is commonly used when you have multiple VPCs in your AWS environment (for example, separate VPCs for production and development) and need to enable communication between them.
+===========================================================================================================================
+s3 :::
+Copy data from the source bucket to the destination bucket using the aws S3 sync command
+aws s3 sync s3://DOC-EXAMPLE-BUCKET-SOURCE s3://DOC-EXAMPLE-BUCKET-TARGET
+s3 Access Control Lists (ACLs) in Amazon S3:::
+ ACLs are a legacy method for managing permissions on S3 resources, and while they are still widely used, AWS recommends using IAM policies and Bucket Policies for more comprehensive control over access to S3 resources.
