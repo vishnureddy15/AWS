@@ -73,3 +73,7 @@ Copy data from the source bucket to the destination bucket using the aws S3 sync
 aws s3 sync s3://DOC-EXAMPLE-BUCKET-SOURCE s3://DOC-EXAMPLE-BUCKET-TARGET
 s3 Access Control Lists (ACLs) in Amazon S3:::
  ACLs are a legacy method for managing permissions on S3 resources, and while they are still widely used, AWS recommends using IAM policies and Bucket Policies for more comprehensive control over access to S3 resources.
+============================================================================================================================
+Amazon Neptune:::
+Amazon Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency.
+Neptune powers graph use cases such as recommendation engines, fraud detection, knowledge graphs, drug discovery, and network security.
